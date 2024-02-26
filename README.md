@@ -3,7 +3,7 @@
 <h3>This is Mayuri Sampathgiri! </h3>
 
 - 👩‍💻 I am a senior at GMU, majoring in **Computer Science**.
-- ⚒️ I'm currently learning **Data Structures & Algorithms in Java** and also working on **Python libraries for Statistics and analytics**.
+- 🌱 I'm currently learning **Software development through Agile**.
 - ✉️ Reach me at **mayurisrivani30@gmail.com**.
 - 🌥️ Pronouns: she/her.
 - 🎈 I love coffee ☕ and lofi music 🎶.
