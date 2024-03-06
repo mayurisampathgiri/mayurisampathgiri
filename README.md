@@ -4,7 +4,7 @@
 
 - 👩‍💻 I am a senior at GMU, majoring in **Computer Science**.
 - 🌱 I'm currently learning **Networking, Secure Systems, Software engineering, Operating Systems, and Data Mining**
-- ✉️ Reach me at **mayurisrivani30@gmail.com**.
+- ✉️ Reach me at **mayurisampathgiri@gmail.com**.
 - 🌥️ Pronouns: she/her.
 - 🎈 I love coffee ☕ and lofi music 🎶.
 
