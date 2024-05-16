@@ -2,8 +2,7 @@
 
 <h3>This is Mayuri Sampathgiri! </h3>
 
-- 👩‍💻 I am a senior at GMU, majoring in **Computer Science**.
-- 🌱 I'm currently learning **Networking, Secure Systems, Software engineering, Operating Systems, and Data Mining**
+- 👩‍💻 I am a recent **BS in Computer Science** graduate from George Mason Universit.
 - ✉️ Reach me at **mayurisampathgiri@gmail.com**.
 - 🌥️ Pronouns: she/her.
 - 🎈 I love coffee ☕ and lofi music 🎶.
