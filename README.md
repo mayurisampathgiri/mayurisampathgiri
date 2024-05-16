@@ -2,7 +2,7 @@
 
 <h3>This is Mayuri Sampathgiri! </h3>
 
-- 👩‍💻 I am a recent **BS in Computer Science** graduate from George Mason Universit.
+- 👩‍💻 I am a recent **BS in Computer Science** graduate from George Mason University.
 - ✉️ Reach me at **mayurisampathgiri@gmail.com**.
 - 🌥️ Pronouns: she/her.
 - 🎈 I love coffee ☕ and lofi music 🎶.
